@@ -1,0 +1,11 @@
+E:\UniHA\C#\text-adventure\Text Adventure\bin\Debug\Text_Adventure.exe.config
+E:\UniHA\C#\text-adventure\Text Adventure\bin\Debug\Text_Adventure.pdb
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text Adventure.csproj.AssemblyReference.cache
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text Adventure.csproj.SuggestedBindingRedirects.cache
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text_Adventure.Properties.Resources.resources
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text Adventure.csproj.GenerateResource.cache
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text Adventure.csproj.CoreCompileInputs.cache
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text_Adventure.exe
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text_Adventure.pdb
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text Adventure.csproj.CopyComplete
+E:\UniHA\C#\text-adventure\Text Adventure\obj\Debug\Text_Adventure.FormTextAdventure.resources
